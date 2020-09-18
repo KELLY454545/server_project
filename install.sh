@@ -8,10 +8,10 @@
 #eviter le chemin home/root
 USERNAME=$( logname )
 
-TO_CRYPT="/home/$USERNAME/cryptoProject/toCrypt"
-CRYPTED="/home/$USERNAME/cryptoProject/crypted"
-TO_DECRYPT="/home/$USERNAME/cryptoProject/toDecrypt"
-DECRYPTED="/home/$USERNAME/cryptoProject/toDecrypt"
+TO_CRYPT="/home/$USERNAME/server_project/toCrypt"
+CRYPTED="/home/$USERNAME/server_project/crypted"
+TO_DECRYPT="/home/$USERNAME/server_project/toDecrypt"
+DECRYPTED="/home/$USERNAME/server_project/toDecrypt"
 
 CHEMIN_SH="/usr/bin"
 
